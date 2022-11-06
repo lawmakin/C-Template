@@ -4,6 +4,23 @@ Template.c is a simple formatting template I use for
 writing C programs, based on NASA's style guide document 
 from August 1994.
 
+## Program Details
+```
+/**********************************************************
+ * PROGRAM NAME:                                          *
+ *                                                        *
+ * PURPOSE:                                               *
+ *                                                        *
+ * AUTHOR:                                                *
+ * DATE:                                                  *
+ *********************************************************/
+```
+
+Relatively self-explanatory; Program Name depicts [name].c,
+Purpose describes the purpose of the program, Author lists
+the author name, and Date the creation date of the program.
+
+
 ## Pre-Processor Directives
 
 ```
