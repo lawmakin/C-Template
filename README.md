@@ -50,5 +50,8 @@ starting with main.
 
 ### To-Do List
 
-I plan on getting to grips with Erik O'Shaugnessy's guide, 
-'How to write a good C main function' (https://opensource.com/article/19/5/how-write-good-c-main-function), and incorporating it, in a fashion, into this template.
+I plan on getting to grips with:
+
+Erik O'Shaugnessy's guide [How to write a good C main function](https://opensource.com/article/19/5/how-write-good-c-main-function)
+
+and incorporating it, in a fashion, into this template.
