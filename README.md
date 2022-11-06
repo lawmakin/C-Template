@@ -20,7 +20,7 @@ Includes, defines, ifdefs, typedefs, pragmas etc.
 Declaration of functions i.e. their return type, name, 
 paramaters.
 
-## Functions
+## Function Definitions
 ```
 /* Function Definitions */
 int main(int argc, char *argv[]){
